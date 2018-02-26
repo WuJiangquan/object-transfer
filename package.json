@@ -1,0 +1,26 @@
+{
+  "name": "object-transfer",
+  "version": "1.0.1",
+  "description": "适配器，快速把一个对象转换成另一个对象",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuJiangquan/object-transfer.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "object-transfer",
+    "transfer",
+    "adapter",
+    "api adapter",
+    "ajax adapter"
+  ],
+  "author": "Wujiangquan",
+  "bugs": {
+    "url": "https://github.com/WuJiangquan/object-transfer/issues"
+  },
+  "homepage": "https://github.com/WuJiangquan/object-transfer#readme",
+}
